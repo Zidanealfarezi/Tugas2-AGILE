@@ -1,0 +1,2 @@
+Buat folder flutter di vs code
+lalu copy ke folder flutter lalu run
